@@ -7,6 +7,7 @@ I love every aspect of developing websites and trying out new technologies. I en
 <a href="https://www.linkedin.com/in/alexriley1223" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/alexriley1223/alexriley1223/main/images/linkedin.svg" alt="Alex Riley - LinkedIn" width="30px"/>
 </a>
+<a>&nbsp;&nbsp;</a>
 <a href="mailto:alexriley1223@gmail.com">
   <img src="https://raw.githubusercontent.com/alexriley1223/alexriley1223/main/images/email.svg" alt="Alex Riley - Email" width="30px"/>
 </a>
