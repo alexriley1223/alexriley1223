@@ -15,7 +15,7 @@ I love every aspect of developing websites and trying out new technologies. I en
 - 💬 I'm always open to questions, feedback, or new opportunities!
 
 ## 💻 I'm currently working on
-- My updated Portfolio site (Nuxt, Tailwind), side projects (<a href="https://github.com/alexriley1223/bishop" target="_blank" rel="noreferrer">bishop</a>, <a href="https://github.com/alexriley1223/toplane" target="_blank" rel="noreferrer">toplane</a>), and an online store for <a href="https://www.thetrendyartisan.com/" target="_blank" rel="noreferrer">The Trendy Artisan</a>!
+- Discord bots, primarily (<a href="https://github.com/alexriley1223/bishop" target="_blank" rel="noreferrer">bishop</a>), and an online store for <a href="https://www.thetrendyartisan.com/" target="_blank" rel="noreferrer">The Trendy Artisan</a>!
 
 ## 🧠 I'm currently learning
 - Improving on Vue and Tailwind to flesh out my frontend knowledge
