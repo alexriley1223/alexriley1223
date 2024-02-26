@@ -41,7 +41,7 @@ I love every aspect of developing websites and trying out new technologies. I en
 </a>
   
 <a href="https://laravel.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="40" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40" width="40" />
 </a>
 <a href="https://nuxtjs.org/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" height="40" width="40" />
