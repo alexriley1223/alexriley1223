@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.alexriley.me/" target="_blank" rel="noreferrer">Alex</a>!</h1>
 <h3 align="center">Full stack web developer, tech tinkerer, and Purdue alum 🚂</h3>
 
-I love every aspect of developing websites and trying out new technologies. I enjoy solving complex architecture and database challenges while providing a great user experience. Outside of development, I enjoy cooking (sometimes poorly) 🍳 and disc golf ⛳. 
+I love every aspect of developing websites and trying out new technologies. I enjoy solving complex architecture and database challenges while providing a great user experience. 
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/alexriley1223" target="_blank" rel="noreferrer">
@@ -12,14 +12,7 @@ I love every aspect of developing websites and trying out new technologies. I en
   <img src="https://raw.githubusercontent.com/alexriley1223/alexriley1223/main/images/email.svg" alt="Alex Riley - Email" width="30px"/>
 </a>
 
-- 💬 I'm always open to questions, feedback, or new opportunities!
-
-## 💻 I'm currently working on
-- Discord bots, primarily (<a href="https://github.com/alexriley1223/bishop" target="_blank" rel="noreferrer">bishop</a>), and an online store for <a href="https://www.thetrendyartisan.com/" target="_blank" rel="noreferrer">The Trendy Artisan</a>!
-
-## 🧠 I'm currently learning
-- Improving on Vue and Tailwind to flesh out my frontend knowledge
-- More advanced Laravel concepts
+#### 💬 I'm always open to questions, feedback, or new opportunities!
 
 ## Technical Skills
 
@@ -73,15 +66,6 @@ I love every aspect of developing websites and trying out new technologies. I en
 
 <a href="https://www.nginx.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="40" width="40" />
-</a>
-<a href="https://www.linux.org/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40" />
-</a>
-<a href="https://www.gnu.org/software/bash/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="40" width="40" />
-</a>
-<a href="https://git-scm.com/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40" />
 </a>
 </div>
 <br>
