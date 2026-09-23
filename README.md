@@ -1,71 +1,20 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.alexriley.me/" target="_blank" rel="noreferrer">Alex</a>!</h1>
-<h3 align="center">Full stack web developer, tech tinkerer, and Purdue alum 🚂</h3>
+<h3 align="center">👋 Hey, I'm Alex Riley</h3>
 
-I love every aspect of developing websites and trying out new technologies. I enjoy solving complex architecture and database challenges while providing a great user experience. 
+<p align="center">
+  <a href="https://www.alexriley.me">Website</a> •
+  <a href="https://www.linkedin.com/in/alexriley1223/">LinkedIn</a>
+</p>
 
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/alexriley1223" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/alexriley1223/alexriley1223/main/images/linkedin.svg" alt="Alex Riley - LinkedIn" width="30px"/>
-</a>
-<a>&nbsp;&nbsp;</a>
-<a href="mailto:alexriley1223@gmail.com">
-  <img src="https://raw.githubusercontent.com/alexriley1223/alexriley1223/main/images/email.svg" alt="Alex Riley - Email" width="30px"/>
-</a>
+---
 
-#### 💬 I'm always open to questions, feedback, or new opportunities!
+Full Stack Web Developer **(Laravel, Statamic, Vue, Tailwind)** & Marketing Ops
 
-## Technical Skills
+I enjoy building fast, accessible, and beautifully crafted web experiences end-to-end
 
-<div align="center">
-<a href="https://www.w3schools.com/css/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
-</a>
-<a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
-</a>
-<a href="https://www.php.net" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
-</a>
-<a href="https://www.mysql.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
-</a>
-  
-<a href="https://laravel.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" height="40" width="40" />
-</a>
-<a href="https://nuxtjs.org/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" height="40" width="40" />
-</a>
+Corgi dad, cooking, and disc golf
 
-<a href="https://vuejs.org/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" height="40" width="40" />
-</a>
-<a href="https://nodejs.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
-</a>
-<a href="https://sass-lang.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" width="40" />
-</a>
-<a href="https://tailwindcss.com/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWind" height="40" width="40" />
-</a>
-  
-<a href="https://webpack.js.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="40" width="40" />
-</a>
+---
 
-<a href="https://www.docker.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" width="40" />
-</a>
-<a href="https://www.vagrantup.com/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" height="40" width="40" />
-</a>
+- Web Developer @ [Trovata](https://trovata.io)
+- Lead Web Developer @ [SFP](https://sfp.net) (2021 - 2025)
 
-<a href="https://www.nginx.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="40" width="40" />
-</a>
-</div>
-<br>
